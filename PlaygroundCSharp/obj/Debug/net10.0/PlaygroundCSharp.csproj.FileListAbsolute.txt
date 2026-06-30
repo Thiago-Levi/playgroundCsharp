@@ -1,0 +1,15 @@
+/workspaces/playgroundCsharp/PlaygroundCSharp/bin/Debug/net10.0/PlaygroundCSharp
+/workspaces/playgroundCsharp/PlaygroundCSharp/bin/Debug/net10.0/PlaygroundCSharp.deps.json
+/workspaces/playgroundCsharp/PlaygroundCSharp/bin/Debug/net10.0/PlaygroundCSharp.runtimeconfig.json
+/workspaces/playgroundCsharp/PlaygroundCSharp/bin/Debug/net10.0/PlaygroundCSharp.dll
+/workspaces/playgroundCsharp/PlaygroundCSharp/bin/Debug/net10.0/PlaygroundCSharp.pdb
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.AssemblyInfoInputs.cache
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.AssemblyInfo.cs
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.csproj.CoreCompileInputs.cache
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.sourcelink.json
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.dll
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/refint/PlaygroundCSharp.dll
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.pdb
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/PlaygroundCSharp.genruntimeconfig.cache
+/workspaces/playgroundCsharp/PlaygroundCSharp/obj/Debug/net10.0/ref/PlaygroundCSharp.dll
