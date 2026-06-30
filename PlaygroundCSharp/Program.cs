@@ -1,2 +1,4 @@
-﻿Console.WriteLine("Ambiente Criado com sucesso <3 ");
+﻿string messsage = "Olá Mundo";
+
+Console.WriteLine($"{messsage}");
 
